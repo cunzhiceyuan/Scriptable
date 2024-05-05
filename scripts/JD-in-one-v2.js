@@ -2,7 +2,7 @@
 // 电报群: https://t.me/Scriptable_JS @anker1209
 // 采用了2Ya美女的京豆收支脚本及DmYY依赖 https://github.com/dompling/Scriptable/tree/master/Scripts
 // version:2.3.2
-// update:2023/02/13
+// update:2023/02/13--------注销网页账户一直登录的方式：2169行的url https://mcr.jd.com/credit_home/pages/index.html?btPageType=BT&channelName=024 换为：https://my.m.jd.com
 
 if (typeof require === 'undefined') require = importModule;
 const { DmYY, Runing } = require('./DmYY');
